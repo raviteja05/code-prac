@@ -10,7 +10,7 @@ public class DogController extends AbstractController<Dog> {
 	@Override
 	public String getView(Dog animal) {
 		// TODO Auto-generated method stub
-		return "forward:/cat/";
+		return "forward:/lion/";
 	}
 
 }
